@@ -1,13 +1,11 @@
 import random
-
 print("Welcome to MoodLift!")
 print("This app helps improve your mood.")
-
 print("\nHow are you feeling today?")
-print("1. Happy")
-print("2. Sad")
-print("3. Stressed")
-print("4. Bored")
+print("1. Happy :) ")
+print("2. Sad :( ")
+print("3. Stressed :|")
+print("4. Bored :} ")
 
 mood = input("Enter your choice: ")
 
