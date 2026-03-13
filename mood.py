@@ -27,11 +27,12 @@ elif mood == "4":
 
 else:
     print("Invalid choice")
-
 jokes = [
-"Why do programmers prefer dark mode? Because light attracts bugs.",
-"Why did the computer go to therapy? Too many bytes of emotional baggage.",
-"Why do programmers hate nature? Too many bugs."
+"Why don’t skeletons fight each other? Because they don’t have the guts.",
+"Why did the scarecrow win an award? Because he was outstanding in his field.",
+"What did the ocean say to the beach? Nothing, it just waved.",
+"Why did the student eat his homework? Because the teacher said it was a piece of cake.",
+"Why can't your nose be 12 inches long? Because then it would be a foot."
 ]
 
 print("\nMood Booster Joke:")
